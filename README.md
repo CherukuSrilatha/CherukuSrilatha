@@ -100,7 +100,7 @@ Built classification and regression models to predict Air Quality Index using we
 
 ---
 
-## 🏆 Certifications
+## 🏆 Achievements & Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
 - Salesforce Certified Agentforce Specialist
