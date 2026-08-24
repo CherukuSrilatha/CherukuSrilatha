@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cheruku Srilatha
 
-🎓 Artificial Intelligence & Data Science Undergraduate at Chaitanya Bharathi Institute of Technology(CGPA: 9.63)
+🎓 Artificial Intelligence & Data Science Undergraduate at Chaitanya Bharathi Institute of Technology(CGPA: 9.61)
 
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Full-Stack Development.
 
