@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![CherukuSrilatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CherukuSrilatha&show_icons=true)
+![CherukuSrilatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CherukuSrilatha&show_icons=true&rank_icon=percentile)
 
 ## 📌 Featured Projects
 
