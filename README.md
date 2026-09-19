@@ -126,3 +126,5 @@ Built classification and regression models to predict Air Quality Index using we
 ---
 
 ⭐ Open to internships, collaborations, and opportunities in Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Full-Stack Development.
+
+https://github-readme-stats.vercel.app/api?username=CherukuSrilatha
